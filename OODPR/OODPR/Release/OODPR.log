@@ -1,0 +1,9 @@
+﻿  CRectangleCreator.cpp
+  OODPR.cpp
+Release\CRectangleCreator.obj : warning LNK4042: объект указан более одного раза; лишние не учитываются
+  Создание кода
+  13 of 479 functions ( 2.7%) were compiled, the rest were copied from previous compilation.
+    6 functions were new in current compilation
+    8 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  OODPR.vcxproj -> D:\Research-Data\OOD\OODPR\Release\OODPR.exe

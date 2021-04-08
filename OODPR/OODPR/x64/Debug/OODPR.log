@@ -1,0 +1,10 @@
+﻿  CCircleCreator.cpp
+  CRectangleCreator.h
+  CShapeFactory.cpp
+  CTriangleCreator.cpp
+  DataInteraction.cpp
+  OODPR.cpp
+  Создание кода...
+x64\Debug\CRectangleCreator.obj : warning LNK4042: объект указан более одного раза; лишние не учитываются
+CShapeFactory.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: static class RectangleCreator * __cdecl RectangleCreator::GetInstanceR(void)" (?GetInstanceR@RectangleCreator@@SAPEAV1@XZ) в функции "public: class std::shared_ptr<class CShapeDecorator> __cdecl CShapeFactory::CreateShape(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_istream<char,struct std::char_traits<char> > &)" (?CreateShape@CShapeFactory@@QEAA?AV?$shared_ptr@VCShapeDecorator@@@std@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@3@AEAV?$basic_istream@DU?$char_traits@D@std@@@3@@Z)
+D:\Research-Data\OOD\OODPR\x64\Debug\OODPR.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
